@@ -14,7 +14,7 @@ This project demonstrates IEEE 754 floating-point arithmetic concepts through 7 
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/AD-315/ieee754_demo.git
 cd IEEE_754_Demo
 ```
 
